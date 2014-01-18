@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>2D Polygon Packing Problem_Logo.png</file>
+    </qresource>
+    <qresource prefix="/sign">
+        <file>issueWarning.png</file>
+    </qresource>
+</RCC>

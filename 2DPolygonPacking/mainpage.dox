@@ -1,0 +1,18 @@
+/**
+ *
+ * @mainpage Description
+ *
+ * This document is auto generated documentation
+ * of 2D Polygon Packing Program with using doxygen.
+ * 
+ * 2D Polygon Packing Program uses different
+ * types of algorithms (heuristics, metaheuristics) to
+ * packing convex polygons. Algorithms run step by
+ * step, in each step user can select different
+ * algorithm from the list i.e.
+ * embed: parallel edge algorithm -> 2D strip packing: first fit decreasing algorithm -> shrinking: brute force algorithm.
+ * 
+ * User can generate their own polygons by
+ * using polygon generator or open .fply files
+ * already created and also can save generated polygons.
+ */
